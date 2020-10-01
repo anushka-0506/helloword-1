@@ -1,2 +1,1 @@
-# helloword
-print hello word
+This is simple python program to print hello world.
